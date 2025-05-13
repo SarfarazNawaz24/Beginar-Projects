@@ -1,0 +1,26 @@
+.nav{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 36px 100px;
+}
+.nav-logo{
+    font-size: 40px;
+    font-weight:500;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 90px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.nav-contact{
+    background-color: white;
+    color: #262626;
+    border-radius: 50px;
+    padding: 10px 35px;
+
+}
